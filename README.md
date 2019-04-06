@@ -18,6 +18,7 @@ sorry for my bad English.
 * Able to change comments opacity
 * Able to change comments speed
 * Able to change comments size
+* 50+ font style
 * Lights on/off when video is played
 * Popup video to new window
 * Show/hide likes of comment
