@@ -41,6 +41,7 @@ sorry for my bad English.
 * Fullscreen button won't work well when video changed if toggle it from Theater mode
 * "Add to FilterList" button in search result page duplicated sometimes
 * Drop down list for font choice acts heavy
+* Comment cover on other comment
 
 # Donate
 If you really enjoy this tool and willing to support my work
