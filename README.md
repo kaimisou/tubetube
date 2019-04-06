@@ -44,4 +44,4 @@ sorry for my bad English.
 
 # Donate
 If you really enjoy this tool and willing to support my work
-you can send me with a donation to " kaimisou0@gmail.com " using PayPal.
+you can send me a donation to " kaimisou0@gmail.com " by PayPal.
