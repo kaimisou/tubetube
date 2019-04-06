@@ -2,7 +2,7 @@
 A Chrome extension allow you to bring youtube comment to video player.
 just like Niconico, Bilibili or others, which also known as "DANMAKU" in japanese.
 hurry and try out on your favorate video !
-hope it works on your environment and you enjoy it　(ツ)
+hope it works on your environment and you enjoy it.　(ツ)
 
 this tool probably won't keep working in the future if youtube do some major change on their HTML script.
 
