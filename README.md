@@ -29,15 +29,15 @@ sorry for my bad English.
 * Add/remove username to filter for exclusive search
 * Show comment with specific time when the seek-bar reach the time 
   once the comment been loaded
-* google translate button for comments which you can't read
+* Google translate button for comments which not written in your language
 
 # Known Issues
-* sometimes comments from previous video will showed instead of 
+* Sometimes comments from previous video will showed instead of 
   current (usually the first comment)
-* comments won't show during fullscreen mode
-* fullscreen button won't work well when video changed if toggle it from Theater mode
+* Comments won't show during fullscreen mode
+* Fullscreen button won't work well when video changed if toggle it from Theater mode
 * "Add to FilterList" button in search result page duplicated sometimes
-* drop down list for font choice acts heavy
+* Drop down list for font choice acts heavy
 
 # Donate
 If you really enjoy this tool and willing to support my work
