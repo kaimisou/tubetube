@@ -31,6 +31,8 @@ sorry for my bad English.
 * Show comment with specific time when the seek-bar reach the time 
   once the comment been loaded
 * Google translate button for comments which not written in your language
+* Copy to clipboard button which allows comments to be read aloud with SpeakComputer (freeware) 
+  or any other software like that. e.g. VOICEROID for Japanese comment.
 
 # Known Issues
 * Sometimes comments from previous video will showed instead of 
