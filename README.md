@@ -9,7 +9,7 @@ this tool probably won't keep working in the future if youtube do some major cha
 sorry for my bad English.
 
 # Installation
-  not ready yet
+  [Chrome WebStore](https://chrome.google.com/webstore/detail/tubetube/ejhclnkjmajandhndbkphgalemndepgp)
 
 # Features
 
